@@ -1,6 +1,6 @@
-# Raydium CPMM Market Bot
+# Solana Market Maker Bot
 
-A sophisticated Solana trading bot that implements advanced market making strategies with multi-wallet support, stealth trading, and comprehensive monitoring capabilities.
+A sophisticated Solana market maker bot that implements advanced market making strategies with multi-wallet support, stealth trading, and comprehensive monitoring capabilities. make market on  pump.fun, pump swap, raydium launchpad, raydium cpmm, 
 
 ## Project Structure
 
