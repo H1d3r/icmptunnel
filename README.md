@@ -2,6 +2,7 @@
 
 A sophisticated Solana market maker bot that implements advanced market making strategies with multi-wallet support, stealth trading, and comprehensive monitoring capabilities. make market on  pump.fun, pump swap, raydium launchpad, raydium cpmm, 
 
+
 ## Project Structure
 
 The codebase is organized into several modules:
