@@ -27,6 +27,8 @@ Main Platform: Bitget, Blofin, Binance
 
 ![aafe04e5-24a8-475a-b3b7-bc6ba2033467](https://github.com/user-attachments/assets/a006c635-601b-468e-9143-9676f17538ec)
 
+<img width="1836" height="960" alt="image" src="https://github.com/user-attachments/assets/2fee2152-86d1-4381-bf12-47fd5d91feed" />
+
 <img width="839" height="895" alt="image" src="https://github.com/user-attachments/assets/2cc4bc60-9d0f-43e1-afa1-106ea7c45893" />
 
 <img width="1865" height="963" alt="image" src="https://github.com/user-attachments/assets/8b3e6da7-c716-43ef-bea5-40be73fbe095" />
@@ -34,8 +36,6 @@ Main Platform: Bitget, Blofin, Binance
 <img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
 
 <img width="1855" height="962" alt="image" src="https://github.com/user-attachments/assets/e8a1b0a9-ca32-44e4-9f75-43be796c428d" />
-
-<img width="1836" height="960" alt="image" src="https://github.com/user-attachments/assets/2fee2152-86d1-4381-bf12-47fd5d91feed" />
 
 <img width="1473" height="836" alt="image" src="https://github.com/user-attachments/assets/010adfdb-a239-444c-9e01-36a1b64f12d7" />
 
@@ -56,6 +56,9 @@ Main Platform: Bitget, Blofin, Binance
 <img width="1280" height="973" alt="image" src="https://github.com/user-attachments/assets/6b0cf1ba-37ab-4fec-873d-aa20b1064a07" />
 
 <img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/4f36f711-b8a3-4620-8922-c01563a2f9c9" />
+
+<img width="1301" height="858" alt="image" src="https://github.com/user-attachments/assets/2878f931-3556-46bd-8b75-bc5bca97131b" />
+
 
 
 ## What Makes This Bot Different?
