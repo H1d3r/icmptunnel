@@ -59,6 +59,9 @@ Main Platform: Bitget, Blofin, Binance
 
 <img width="1301" height="858" alt="image" src="https://github.com/user-attachments/assets/2878f931-3556-46bd-8b75-bc5bca97131b" />
 
+<img width="1329" height="832" alt="image" src="https://github.com/user-attachments/assets/1868a40b-3a3d-4725-8e57-d6f0b2abc498" />
+
+
 
 
 ## What Makes This Bot Different?
