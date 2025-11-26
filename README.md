@@ -1,12 +1,12 @@
-# 🤖 AI Crypto Future Trading Bot - Daily PNL :5~22%
+# 🤖 AI Crypto Future Trading Bot - Daily PNL :5~27%
 ## Overview
-An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 5-22% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
+An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 5-27% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
 Main Platform: Bitget, Blofin, Binance
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
-[![Daily PNL: 20-30%](https://img.shields.io/badge/Daily_PNL-20--30%25-brightgreen.svg)]()
+[![Daily PNL: 5-27%](https://img.shields.io/badge/Daily_PNL-20--30%25-brightgreen.svg)]()
 
 ---
 
@@ -14,7 +14,7 @@ Main Platform: Bitget, Blofin, Binance
 
 | Metric | Value |
 |--------|-------|
-| **Average Daily PNL** | 5-22% |
+| **Average Daily PNL** | 5-27% |
 | **Maximum Drawdown** | <11% |
 | **Supported Exchanges** | Bitget, Blofin, Binance |
 | **Trading Pairs** | SOL/USDT, ETH/USDT, DOGE/USDT, XRP/USDT |
