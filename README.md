@@ -1,4 +1,4 @@
-# 🤖 AI Crypto Future Trading Bot - Daily PNL :5~27%
+# 🧠 AI Crypto Future Trading Bot - Daily PNL :5~27%
 ## Overview
 An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 5-27% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
 Main Platform: Bitget, Blofin, Binance
@@ -72,7 +72,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -89,27 +89,27 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 └──────────────────┘    └──────────────────┘    └──────────────────┘
          │                      │                        │
          ▼                      ▼                        ▼
-┌──────────────────┐    ┌──────────────────┐    ┌──────────────────┐
-│  Data Processing │    │  Model Training  │    │ Order Execution  │
-│                  │    │                  │    │                  │
-│ • Validation     │    │ • GPU Training   │    │ • Auto Trading   │
-│ • Cleaning       │    │ • Fine-tuning    │    │ • Risk Control   │
-│ • Indicators     │    │ • Optimization   │    │ • P&L Tracking   │
-└──────────────────┘    └──────────────────┘    └──────────────────┘
+┌──────────────────┐    ┌──────────────────┐    ┌─────────────────────────┐
+│  Data Processing │    │  Model Training  │    │ Order Execution With API│
+│                  │    │                  │    │                         │
+│ • Validation     │    │ • GPU Training   │    │ • Auto Trading          │
+│ • Cleaning       │    │ • Fine-tuning    │    │ • Risk Control          │
+│ • Indicators     │    │ • Optimization   │    │ • P&L Tracking          │
+└──────────────────┘    └──────────────────┘    └─────────────────────────┘
 ```
 
 ---
 
-## 📊 Core Components
+##  Core Components
 
-### 1. 📈 Data Collection System
+### 1. Data Collection System
 - **Real-time OHLCV data** from Bitget, Blofin, and Binance
 - **Historical data collection** (supports up to 1000+ days)
 - **Multi-symbol tracking** (SOL, ETH, DOGE, XRP)
 - **Automatic data validation** and quality checks
 - **Multiple timeframes** (1m, 5m, 15m, 1h, 4h, 1d)
 
-### 2. 🧠 AI Forecasting System
+### 2. AI Forecasting System
 - **Chronos T5** - Time series foundation model
 - **Chronos BOLT** - Fast inference optimized model
 - **TimeGPT** - Advanced forecasting with GPT architecture
@@ -118,7 +118,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 
 **Location**: `AI_fine-turning_system_forecasting_system/`
 
-### 3. ⚡ Real-Time Prediction Engine
+### 3.  Real-Time Prediction Engine
 - **Momentum Calculator** - Real-time momentum tracking
 - **Regime Detection** (LGMM) - Identifies market conditions
 - **Ensemble Predictions** - Combines multiple model outputs
@@ -127,7 +127,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 
 **Location**: `AI_momentum_real_time_predicting_system/`
 
-### 4. 🎓 Training System
+### 4.  Training System
 - **Advanced AI Trainers** - Automated model training
 - **LLM + RL Hybrid** - Combines language models with reinforcement learning
 - **Modern Architecture** - Transformers, LSTMs, CNNs
@@ -136,7 +136,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 
 **Location**: `AI_training_system(models_trainers)/`
 
-### 5. 📉 Technical Analysis System
+### 5.  Technical Analysis System
 - **8+ Technical Indicators** (RSI, MACD, Bollinger Bands, etc.)
 - **Custom Momentum Indicators**
 - **Support/Resistance Detection**
@@ -145,7 +145,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 
 **Location**: `Analyzing_indicators_comparing_momentum_system/`
 
-### 6. 🖥️ GPU & Cloud Infrastructure
+### 6.  GPU & Cloud Infrastructure
 - **GPU Manager** - Efficient GPU allocation and monitoring
 - **Parallel Processing** - Train multiple models simultaneously
 - **Resource Optimization** - Automatic resource allocation
@@ -301,7 +301,7 @@ RISK_CONFIG = {
 ```
 
 
-## 📈 Supported Trading Pairs
+##  Supported Trading Pairs
 
 | Symbol | Exchange | Leverage | Status |
 |--------|----------|----------|--------|
@@ -315,19 +315,6 @@ RISK_CONFIG = {
 ---
 
 
-
-
----
-
-## 🔗 Links
-
-- [Live Demo](https://demo.yourtradingbot.com) (Paper Trading)
-- [Full Documentation](https://docs.yourtradingbot.com)
-- [API Reference](https://api-docs.yourtradingbot.com)
-- [Video Tutorial Series](https://youtube.com/yourlink)
-- [Blog](https://blog.yourtradingbot.com)
-
----
 
 
 
