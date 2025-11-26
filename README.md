@@ -1,4 +1,4 @@
-# 🤖 AI Crypto Future Trading Bot - Next-Gen Automated Trading System
+# 🤖 AI Crypto Future Trading Bot - Daily PNL :5~15%
 ## Overview
 An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 20-30% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
 
