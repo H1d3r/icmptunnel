@@ -24,15 +24,23 @@ Main Platform: Bitget, Blofin, Binance
 ---
 
 <img width="839" height="895" alt="image" src="https://github.com/user-attachments/assets/2cc4bc60-9d0f-43e1-afa1-106ea7c45893" />
+
 <img width="1016" height="425" alt="image" src="https://github.com/user-attachments/assets/2ced8c03-d813-44ec-a525-6c61909ab1ce" />
+
 <img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/b57cc58f-e235-4f21-87eb-e9cbf735aaaa" />
+
 <img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
+
 <img width="1280" height="147" alt="image" src="https://github.com/user-attachments/assets/1121c7d6-f535-422d-9521-bd07a6a012ac" />
+
 <img width="1241" height="400" alt="image" src="https://github.com/user-attachments/assets/06ce5da3-d243-454d-b681-d5506a07c5f3" />
 
 <img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/b3b30aea-0ae8-45d8-a6b6-09f9c55e5a26" />
+
 <img width="1280" height="973" alt="image" src="https://github.com/user-attachments/assets/6b0cf1ba-37ab-4fec-873d-aa20b1064a07" />
+
 <img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/4f36f711-b8a3-4620-8922-c01563a2f9c9" />
+
 <img width="1180" height="382" alt="image" src="https://github.com/user-attachments/assets/d171ac5f-1ec0-4f25-b40e-c5fd58722f0e" />
 
 
@@ -54,7 +62,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 - Live data streaming from multiple exchanges
 - Millisecond-level signal generation
 - Momentum calculation and regime detection
-- Dynamic risk management
+- Dynamic risk management with ATR + Trailing Stop loss
 
 **Professional Infrastructure**
 - GPU-accelerated processing
@@ -129,7 +137,7 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 **Location**: `AI_training_system(models_trainers)/`
 
 ### 5. 📉 Technical Analysis System
-- **50+ Technical Indicators** (RSI, MACD, Bollinger Bands, etc.)
+- **8+ Technical Indicators** (RSI, MACD, Bollinger Bands, etc.)
 - **Custom Momentum Indicators**
 - **Support/Resistance Detection**
 - **Volume Analysis**
@@ -142,86 +150,10 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 - **Parallel Processing** - Train multiple models simultaneously
 - **Resource Optimization** - Automatic resource allocation
 - **Cloud Deployment** - Ubuntu server management
-- **Cost Optimizer** - Minimizes cloud computing costs
-
-**Locations**: 
-- `GPU_usage_processers/`
-- `Training_parallel_processers_manager/`
-- `Ubuntu_combining_parameter_calculating_management_system/`
-
-### 7. 🤖 Trading Execution Systems
-Multiple production-ready trading systems with different strategies:
-
-- **Main System (2000)** - Primary production system
-- **Martingale System (100)** - Advanced position sizing
-- **Own Bot System** - Customizable strategies
-- **Resource Management** - Optimized for server resources
-
-**Locations**: `Work_Main_server_management_system_*/`
 
 ---
 
-## 🎯 Key Features
-
-### 🔥 Trading Features
-- ✅ **Fully Automated Trading** - No manual intervention required
-- ✅ **Multi-Exchange Support** - Bitget, Blofin, Binance
-- ✅ **Smart Position Sizing** - Dynamic risk-adjusted positions
-- ✅ **Martingale Strategy** - Advanced position averaging
-- ✅ **Stop Loss & Take Profit** - Automated risk management
-- ✅ **Real-time P&L Tracking** - Monitor performance 24/7
-
-### 🧠 AI & Machine Learning
-- ✅ **Multiple AI Models** - Ensemble predictions for accuracy
-- ✅ **Pattern Recognition** - Identifies chart patterns automatically
-- ✅ **Sentiment Analysis** - News and social media integration
-- ✅ **Regime Detection** - Adapts to market conditions
-- ✅ **Continuous Learning** - Models improve over time
-- ✅ **Fine-tuning System** - Optimizes models for crypto markets
-
-### ⚙️ Technical Capabilities
-- ✅ **GPU Acceleration** - Fast model inference
-- ✅ **Parallel Processing** - Multiple models run simultaneously
-- ✅ **Cloud Ready** - Deploy on any Ubuntu server
-- ✅ **Database Management** - SQLite for data persistence
-- ✅ **Logging & Monitoring** - Comprehensive system tracking
-- ✅ **Error Recovery** - Automatic retry and fallback mechanisms
-
----
-
-## 📦 Installation
-
-### Prerequisites
-```bash
-- Python 3.8+
-- CUDA-capable GPU (recommended for training)
-- 8GB+ RAM
-- Ubuntu 20.04+ or Windows 10/11
-```
-
-### Quick Setup
-
-1. **Clone the Repository**
-```bash
-git clone https://github.com/yourusername/ai-crypto-trading-bot.git
-cd ai-crypto-trading-bot
-```
-
-2. **Install Dependencies**
-```bash
-# For main trading system
-pip install -r requirements.txt
-
-# For AI training system
-cd AI_training_system(models_trainers)
-pip install -r requirements_modern.txt
-
-# For GPU support
-cd ../GPU_usage_processers
-pip install -r requirements.txt
-```
-
-3. **Configure API Keys**
+ ## Configure API Keys ##
 ```bash
 # Create .env file
 cp .env.example .env
@@ -238,45 +170,7 @@ BINANCE_API_KEY=your_api_key
 BINANCE_API_SECRET=your_api_secret
 ```
 
-4. **Download Pre-trained Models** (Optional)
-```bash
-# Download AI models
-python download_models.py
-```
-
-5. **Run Initial Data Collection**
-```bash
-cd AI_Data_collecting_system_bitget
-python bitget_client.py
-```
-
----
-
-## 🚀 Quick Start Guide
-
-### Option 1: Run Pre-configured Trading Bot
-
-```bash
-# Navigate to main system
-cd Work_Main_server_management_system_2000_main/Main_system
-
-# Start the bot
-python main_trading_bot.py --symbol SOLUSDT --leverage 10
-```
-
-### Option 2: Run Real-time Momentum System
-
-```bash
-cd AI_momentum_real_time_predicting_system
-
-# Check installation
-python check_installation.py
-
-# Start real-time predictions
-python run_realtime_momentum.py
-```
-
-### Option 3: Custom Configuration
+### Custom Configuration
 
 ```python
 from AI_momentum_real_time_predicting_system.config import TradingConfig
@@ -298,7 +192,7 @@ bot.start()
 
 ---
 
-## 📚 Usage Examples
+## 📚 Usage for running
 
 ### Collecting Historical Data
 ```python
@@ -406,148 +300,6 @@ RISK_CONFIG = {
 }
 ```
 
----
-
-## 📊 Performance Monitoring
-
-### Real-time Dashboard
-The system includes built-in monitoring:
-
-```bash
-# Start monitoring dashboard
-python monitoring/dashboard.py
-```
-
-Access at `http://localhost:8050`
-
-**Dashboard Features:**
-- 📈 Real-time P&L charts
-- 🎯 Win rate statistics
-- 📊 Position tracking
-- 🔔 Alert notifications
-- 📉 Drawdown monitoring
-
-### Performance Metrics
-
-```python
-from monitoring.performance_tracker import PerformanceTracker
-
-tracker = PerformanceTracker()
-
-# Get daily stats
-stats = tracker.get_daily_stats()
-print(f"Today's PNL: {stats['pnl']}%")
-print(f"Win Rate: {stats['win_rate']}%")
-print(f"Total Trades: {stats['total_trades']}")
-print(f"Average Profit: ${stats['avg_profit']}")
-```
-
----
-
-## 🎓 How It Works
-
-### 1. Data Collection Phase
-The system continuously collects real-time OHLCV data from multiple exchanges using optimized APIs with automatic rate limiting and error recovery.
-
-### 2. AI Prediction Phase
-Multiple AI models analyze the collected data:
-- **Chronos Models**: Time series forecasting
-- **Pattern Detection**: Identifies technical patterns
-- **Sentiment Analysis**: Analyzes market sentiment
-- **Momentum Calculation**: Real-time momentum tracking
-
-### 3. Signal Generation Phase
-AI predictions are combined using ensemble methods to generate high-confidence trading signals with specific entry, stop-loss, and take-profit levels.
-
-### 4. Risk Management Phase
-Before execution, signals pass through multiple risk checks:
-- Position size calculation based on account balance
-- Maximum drawdown verification
-- Correlation checks with existing positions
-- Market condition validation
-
-### 5. Execution Phase
-Validated signals are automatically executed across configured exchanges with:
-- Optimal order placement (limit/market)
-- Slippage protection
-- Partial fill handling
-- Order confirmation and tracking
-
-### 6. Monitoring Phase
-All positions are continuously monitored with:
-- Real-time P&L calculation
-- Stop-loss and take-profit management
-- Trailing stop updates
-- Performance metrics tracking
-
----
-
-## 🛡️ Risk Management
-
-### Built-in Safety Features
-
-✅ **Maximum Drawdown Protection**
-- Automatically stops trading if drawdown exceeds 11%
-- Position size reduction during drawdown periods
-
-✅ **Daily Loss Limits**
-- Configurable daily loss limits
-- Automatic shutdown if limit reached
-
-✅ **Position Size Controls**
-- Dynamic position sizing based on account balance
-- Maximum leverage limits per symbol
-
-✅ **Stop Loss Management**
-- Every position has automatic stop loss
-- Trailing stop loss for profitable positions
-
-✅ **Emergency Shutdown**
-- Manual emergency stop button
-- Automatic shutdown on critical errors
-
-### Recommended Settings for Beginners
-
-```python
-BEGINNER_CONFIG = {
-    'leverage': 3,              # Low leverage
-    'risk_per_trade': 0.01,     # 1% risk per trade
-    'max_positions': 2,         # Limit simultaneous positions
-    'min_confidence': 0.75,     # Higher confidence threshold
-}
-```
-
----
-
-## 🔍 Testing & Backtesting
-
-### Run Backtests
-```bash
-cd Signal_testing_system
-
-# Backtest on historical data
-python backtest.py --symbol SOLUSDT --days 100 --strategy momentum
-```
-
-### Paper Trading
-```bash
-# Test with paper trading (no real money)
-python main_trading_bot.py --paper-trade --symbol SOLUSDT
-```
-
-### System Tests
-```bash
-# Run unit tests
-python -m pytest tests/
-
-# Test AI models
-python test_ai_models.py
-
-# Test exchange connections
-python test_exchanges.py
-```
-
----
 
 ## 📈 Supported Trading Pairs
 
@@ -562,128 +314,6 @@ python test_exchanges.py
 
 ---
 
-## 🌟 Roadmap
-
-### Current Version (v1.0)
-- ✅ Multi-exchange support
-- ✅ AI forecasting with multiple models
-- ✅ Real-time signal generation
-- ✅ Automated trading execution
-- ✅ GPU acceleration
-
-### Upcoming Features (v2.0)
-- 🔄 More AI models (LLaMA, GPT-4 integration)
-- 🔄 Advanced portfolio management
-- 🔄 Copy trading functionality
-- 🔄 Mobile app for monitoring
-- 🔄 Social trading features
-- 🔄 More exchange integrations
-
-### Future Plans (v3.0)
-- 🔮 Multi-asset trading (stocks, forex, commodities)
-- 🔮 Decentralized exchange support
-- 🔮 NFT and DeFi integration
-- 🔮 Advanced arbitrage strategies
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run code formatting
-black .
-
-# Run linting
-flake8 .
-
-# Run tests
-pytest tests/
-```
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ⚠️ Disclaimer
-
-**IMPORTANT: Please read carefully before using this software**
-
-- 🚨 **Trading cryptocurrencies carries significant risk of financial loss**
-- 📉 Past performance does not guarantee future results
-- 💰 Only trade with money you can afford to lose
-- 🎓 This software is for educational and research purposes
-- ⚖️ Trading may be subject to regulations in your jurisdiction
-- 🛡️ The developers assume no liability for your trading losses
-- 🔍 Always test with paper trading first
-- 📊 Monitor your positions and risk exposure constantly
-
-**Use at your own risk. Cryptocurrency trading is highly volatile and risky.**
-
----
-
-## 🙋 FAQ
-
-<details>
-<summary><b>How much capital do I need to start?</b></summary>
-
-We recommend starting with at least $1,000 for proper diversification across 4 trading pairs. The system works with lower amounts but may have limited effectiveness.
-</details>
-
-<details>
-<summary><b>Do I need a powerful computer?</b></summary>
-
-For running the trading bot: No, a basic computer is sufficient.
-For training AI models: Yes, a GPU with at least 8GB VRAM is recommended.
-You can use pre-trained models and only run the trading component on a basic setup.
-</details>
-
-<details>
-<summary><b>Can I run this 24/7?</b></summary>
-
-Yes! The system is designed for 24/7 operation. We recommend running it on a VPS (Virtual Private Server) for maximum uptime.
-</details>
-
-<details>
-<summary><b>How often do the AI models need retraining?</b></summary>
-
-Models are automatically fine-tuned weekly based on new market data. You can configure this interval in the settings.
-</details>
-
-<details>
-<summary><b>What if the bot makes a losing trade?</b></summary>
-
-The risk management system limits losses to 2-3% per trade (configurable). The stop-loss is automatically set for every position.
-</details>
-
-<details>
-<summary><b>Can I use this with other exchanges?</b></summary>
-
-Currently supports Bitget, Blofin, and Binance. The architecture is designed to easily add more exchanges.
-</details>
-
-<details>
-<summary><b>Is the 20-30% daily PNL guaranteed?</b></summary>
-
-No. This is historical performance. Cryptocurrency markets are highly volatile, and future performance may vary significantly.
-</details>
-
----
 
 ## 📞 Support & Community
 
@@ -695,24 +325,6 @@ No. This is historical performance. Cryptocurrency markets are highly volatile, 
 
 ---
 
-## 🎯 Success Stories
-
-> *"Started with $5,000 and grew it to $15,000 in 3 weeks. The AI predictions are incredibly accurate!"* - User A
-
-> *"Best trading bot I've used. The risk management saved me during the last market crash."* - User B
-
-> *"Finally, a bot that actually works. The setup was easy and support is responsive."* - User C
-
----
-
-## 🏆 Achievements
-
-- 🥇 **20-30% Average Daily Returns**
-- 🥈 **<11% Maximum Drawdown**
-- 🥉 **99.9% Uptime**
-- ⭐ **1000+ Successful Trades**
-- 🚀 **4 Exchanges Supported**
-- 🤖 **6 AI Models Running**
 
 ---
 
@@ -735,28 +347,5 @@ No. This is historical performance. Cryptocurrency markets are highly volatile, 
 
 ---
 
-## 📊 AI Predicting SYstem Infrastruture
 
-### Minimum Requirements
-- **OS**: Windows 10/11, Ubuntu 20.04+, macOS 11+
-- **RAM**: 8GB
-- **Storage**: 50GB SSD
-- **Internet**: Stable connection (10+ Mbps)
-
-
-### Recommended for Full Features
-- **OS**: Ubuntu 22.04 LTS
-- **RAM**: 16GB+
-- **Storage**: 100GB+ SSD
-- **GPU**: NVIDIA RTX 3060+ (8GB+ VRAM)
-- **Internet**: 50+ Mbps with low latency
-
-
----
-
-<div align="center">
-
-**⚡ Powered by Advanced AI • Built for Professional Traders • Optimized for Performance ⚡**
-
-</div>
 
