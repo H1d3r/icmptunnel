@@ -22,6 +22,12 @@ Main Platform: Bitget, Blofin, Binance
 | **Signal Generation** | Real-time AI Predictions |
 
 ---
+
+![ccd27f90-01b1-455b-81d5-6f85aaea2e07](https://github.com/user-attachments/assets/36435b98-74b7-48b4-a596-f38cc730a9a4)
+
+![aafe04e5-24a8-475a-b3b7-bc6ba2033467](https://github.com/user-attachments/assets/a006c635-601b-468e-9143-9676f17538ec)
+
+
 <img width="839" height="895" alt="image" src="https://github.com/user-attachments/assets/2cc4bc60-9d0f-43e1-afa1-106ea7c45893" />
 
 <img width="1865" height="963" alt="image" src="https://github.com/user-attachments/assets/8b3e6da7-c716-43ef-bea5-40be73fbe095" />
