@@ -31,11 +31,11 @@ Main Platform: Bitget, Blofin, Binance
 
 <img width="1865" height="963" alt="image" src="https://github.com/user-attachments/assets/8b3e6da7-c716-43ef-bea5-40be73fbe095" />
 
+<img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
+
 <img width="1855" height="962" alt="image" src="https://github.com/user-attachments/assets/e8a1b0a9-ca32-44e4-9f75-43be796c428d" />
 
 <img width="1836" height="960" alt="image" src="https://github.com/user-attachments/assets/2fee2152-86d1-4381-bf12-47fd5d91feed" />
-
-<img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
 
 <img width="1473" height="836" alt="image" src="https://github.com/user-attachments/assets/010adfdb-a239-444c-9e01-36a1b64f12d7" />
 
