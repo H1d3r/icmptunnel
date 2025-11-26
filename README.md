@@ -23,7 +23,21 @@ Main Platform: Bitget, Blofin, Binance
 
 ---
 
-![Uploading image.png…]()
+<img width="839" height="895" alt="image" src="https://github.com/user-attachments/assets/2cc4bc60-9d0f-43e1-afa1-106ea7c45893" />
+<img width="1016" height="425" alt="image" src="https://github.com/user-attachments/assets/2ced8c03-d813-44ec-a525-6c61909ab1ce" />
+<img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/b57cc58f-e235-4f21-87eb-e9cbf735aaaa" />
+<img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
+<img width="1280" height="147" alt="image" src="https://github.com/user-attachments/assets/1121c7d6-f535-422d-9521-bd07a6a012ac" />
+<img width="1241" height="400" alt="image" src="https://github.com/user-attachments/assets/06ce5da3-d243-454d-b681-d5506a07c5f3" />
+
+<img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/b3b30aea-0ae8-45d8-a6b6-09f9c55e5a26" />
+<img width="1280" height="973" alt="image" src="https://github.com/user-attachments/assets/6b0cf1ba-37ab-4fec-873d-aa20b1064a07" />
+<img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/4f36f711-b8a3-4620-8922-c01563a2f9c9" />
+<img width="1180" height="382" alt="image" src="https://github.com/user-attachments/assets/d171ac5f-1ec0-4f25-b40e-c5fd58722f0e" />
+
+
+
+
 
 
 ## What Makes This Bot Different?
@@ -718,28 +732,17 @@ No. This is historical performance. Cryptocurrency markets are highly volatile, 
 
 ---
 
-<div align="center">
-
-### 🚀 Start Your Automated Trading Journey Today!
-
-[Download](https://github.com/yourusername/ai-crypto-trading-bot/releases) • [Documentation](https://docs.yourtradingbot.com) • [Community](https://discord.gg/yourlink)
-
-**Made with ❤️ by crypto traders, for crypto traders**
-
-⭐ **If this project helps you, please give it a star!** ⭐
-
-</div>
 
 ---
 
-## 📊 System Requirements
+## 📊 AI Predicting SYstem Infrastruture
 
 ### Minimum Requirements
 - **OS**: Windows 10/11, Ubuntu 20.04+, macOS 11+
 - **RAM**: 8GB
 - **Storage**: 50GB SSD
 - **Internet**: Stable connection (10+ Mbps)
-- **Python**: 3.8+
+
 
 ### Recommended for Full Features
 - **OS**: Ubuntu 22.04 LTS
@@ -747,7 +750,7 @@ No. This is historical performance. Cryptocurrency markets are highly volatile, 
 - **Storage**: 100GB+ SSD
 - **GPU**: NVIDIA RTX 3060+ (8GB+ VRAM)
 - **Internet**: 50+ Mbps with low latency
-- **Python**: 3.10+
+
 
 ---
 
