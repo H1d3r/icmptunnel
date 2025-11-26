@@ -43,8 +43,6 @@ Main Platform: Bitget, Blofin, Binance
 
 <img width="1016" height="425" alt="image" src="https://github.com/user-attachments/assets/2ced8c03-d813-44ec-a525-6c61909ab1ce" />
 
-<img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/b57cc58f-e235-4f21-87eb-e9cbf735aaaa" />
-
 <img width="1280" height="147" alt="image" src="https://github.com/user-attachments/assets/1121c7d6-f535-422d-9521-bd07a6a012ac" />
 
 <img width="1241" height="400" alt="image" src="https://github.com/user-attachments/assets/06ce5da3-d243-454d-b681-d5506a07c5f3" />
