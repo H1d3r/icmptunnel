@@ -1,6 +1,7 @@
-# 🤖 AI Crypto Future Trading Bot - Daily PNL :5~15%
+# 🤖 AI Crypto Future Trading Bot - Daily PNL :5~22%
 ## Overview
-An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 20-30% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
+An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 5-22% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
+Main Platform: Bitget, Blofin, Binance
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -9,11 +10,11 @@ An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 20-3
 
 ---
 
-## 🎯 Performance Highlights
+## Performance Highlights
 
 | Metric | Value |
 |--------|-------|
-| **Average Daily PNL** | 20-30% |
+| **Average Daily PNL** | 5-22% |
 | **Maximum Drawdown** | <11% |
 | **Supported Exchanges** | Bitget, Blofin, Binance |
 | **Trading Pairs** | SOL/USDT, ETH/USDT, DOGE/USDT, XRP/USDT |
@@ -22,23 +23,26 @@ An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 20-3
 
 ---
 
-## 🚀 What Makes This Bot Different?
+![Uploading image.png…]()
 
-Unlike traditional trading bots that rely on simple technical indicators, this system combines **cutting-edge AI models** with real-time market analysis to make intelligent trading decisions:
 
-✨ **Advanced AI Forecasting**
+## What Makes This Bot Different?
+
+Unlike traditional trading bots that rely on simple technical indicators, this system combines **High accuracy AI models** with real-time market analysis to make intelligent trading decisions:
+
+**Advanced AI Forecasting**
 - Multiple AI models working in ensemble (Chronos T5, Chronos BOLT, TimeGPT)
 - Pattern detection and recognition
 - Sentiment analysis integration
 - Fine-tuned models specifically for crypto markets
 
-⚡ **Real-Time Intelligence**
+**Real-Time Intelligence**
 - Live data streaming from multiple exchanges
 - Millisecond-level signal generation
 - Momentum calculation and regime detection
 - Dynamic risk management
 
-🎯 **Professional Infrastructure**
+**Professional Infrastructure**
 - GPU-accelerated processing
 - Parallel training and prediction pipelines
 - Cloud-ready with Ubuntu server management
@@ -82,8 +86,6 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 - **Multi-symbol tracking** (SOL, ETH, DOGE, XRP)
 - **Automatic data validation** and quality checks
 - **Multiple timeframes** (1m, 5m, 15m, 1h, 4h, 1d)
-
-**Location**: `AI_Data_collecting_system_bitget/`
 
 ### 2. 🧠 AI Forecasting System
 - **Chronos T5** - Time series foundation model
