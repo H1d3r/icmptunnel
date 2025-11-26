@@ -1,11 +1,11 @@
 # 🤖 AI Crypto Future Trading Bot - Next-Gen Automated Trading System
+## Overview
+An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 20-30% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Daily PNL: 20-30%](https://img.shields.io/badge/Daily_PNL-20--30%25-brightgreen.svg)]()
-
-> **An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 20-30% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.**
 
 ---
 
