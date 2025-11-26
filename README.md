@@ -168,46 +168,10 @@ Unlike traditional trading bots that rely on simple technical indicators, this s
 
 ---
 
- ## Configure API Keys ##
-```bash
-# Create .env file
-cp .env.example .env
 
-# Add your API keys
-BITGET_API_KEY=your_api_key
-BITGET_API_SECRET=your_api_secret
-BITGET_PASSPHRASE=your_passphrase
-
-BLOFIN_API_KEY=your_api_key
-BLOFIN_API_SECRET=your_api_secret
-
-BINANCE_API_KEY=your_api_key
-BINANCE_API_SECRET=your_api_secret
 ```
 
-### Custom Configuration
-
-```python
-from AI_momentum_real_time_predicting_system.config import TradingConfig
-from Work_Main_server_management_system_2000_main import TradingBot
-
-# Configure
-config = TradingConfig(
-    symbol="SOLUSDT",
-    leverage=10,
-    risk_per_trade=0.02,
-    stop_loss_pct=0.03,
-    take_profit_pct=0.06
-)
-
-# Initialize and run
-bot = TradingBot(config)
-bot.start()
-```
-
----
-
-## 📚 Usage for running
+## Usage for running
 
 ### Collecting Historical Data
 ```python
@@ -282,6 +246,23 @@ print(f"Sharpe Ratio: {metrics['sharpe_ratio']}")
 ---
 
 ## 🔧 Configuration
+
+### Configure API Keys ###
+
+```bash
+# Create .env file
+cp .env.example .env
+
+# Add your API keys
+BITGET_API_KEY=your_api_key
+BITGET_API_SECRET=your_api_secret
+BITGET_PASSPHRASE=your_passphrase
+
+BLOFIN_API_KEY=your_api_key
+BLOFIN_API_SECRET=your_api_secret
+
+BINANCE_API_KEY=your_api_key
+BINANCE_API_SECRET=your_api_secret
 
 ### Trading Configuration
 Edit `config.py` in your chosen trading system:
