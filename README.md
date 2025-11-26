@@ -305,25 +305,16 @@ RISK_CONFIG = {
 
 | Symbol | Exchange | Leverage | Status |
 |--------|----------|----------|--------|
-| SOL/USDT | Bitget, Blofin, Binance | 1-125x | ✅ Active |
-| ETH/USDT | Bitget, Blofin, Binance | 1-100x | ✅ Active |
-| DOGE/USDT | Bitget, Blofin, Binance | 1-75x | ✅ Active |
-| XRP/USDT | Bitget, Blofin, Binance | 1-75x | ✅ Active |
+| SOL/USDT | Bitget, Blofin, Binance | 1-30x | ✅ Active |
+| ETH/USDT | Bitget, Blofin, Binance | 1-30x | ✅ Active |
+| DOGE/USDT | Bitget, Blofin, Binance | 1-20x | ✅ Active |
+| XRP/USDT | Bitget, Blofin, Binance | 1-20x | ✅ Active |
 
 *More trading pairs can be added easily*
 
 ---
 
 
-## 📞 Support & Community
-
-- 📧 **Email**: support@yourtradingbot.com
-- 💬 **Discord**: [Join our community](https://discord.gg/yourlink)
-- 🐦 **Twitter**: [@YourTradingBot](https://twitter.com/yourlink)
-- 📹 **YouTube**: [Video tutorials](https://youtube.com/yourlink)
-- 📚 **Documentation**: [Full docs](https://docs.yourtradingbot.com)
-
----
 
 
 ---
@@ -338,14 +329,6 @@ RISK_CONFIG = {
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-crypto-trading-bot&type=Date)](https://star-history.com/#yourusername/ai-crypto-trading-bot&Date)
-
----
-
-
----
 
 
 
