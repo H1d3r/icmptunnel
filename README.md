@@ -44,19 +44,20 @@ Main Platform: Bitget, Blofin, Binance
 
 <img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/b57cc58f-e235-4f21-87eb-e9cbf735aaaa" />
 
-<img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
-
 <img width="1280" height="147" alt="image" src="https://github.com/user-attachments/assets/1121c7d6-f535-422d-9521-bd07a6a012ac" />
 
 <img width="1241" height="400" alt="image" src="https://github.com/user-attachments/assets/06ce5da3-d243-454d-b681-d5506a07c5f3" />
 
 <img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/b3b30aea-0ae8-45d8-a6b6-09f9c55e5a26" />
 
+<img width="1180" height="382" alt="image" src="https://github.com/user-attachments/assets/d171ac5f-1ec0-4f25-b40e-c5fd58722f0e" />
+
 <img width="1280" height="973" alt="image" src="https://github.com/user-attachments/assets/6b0cf1ba-37ab-4fec-873d-aa20b1064a07" />
 
 <img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/4f36f711-b8a3-4620-8922-c01563a2f9c9" />
 
-<img width="1180" height="382" alt="image" src="https://github.com/user-attachments/assets/d171ac5f-1ec0-4f25-b40e-c5fd58722f0e" />
+<img width="1280" height="224" alt="image" src="https://github.com/user-attachments/assets/31b31adf-7f39-4e4f-b1c6-f47dc4b3937c" />
+
 
 
 
