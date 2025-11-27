@@ -9,7 +9,7 @@ Main Platform: Bitget, Blofin, Binance
 [![Daily PNL: 5-27%](https://img.shields.io/badge/Daily_PNL-20--30%25-brightgreen.svg)]()
 
 ---
-
+## Important tip: Recommended trading vps -> tradoxvps.com
 ## Performance Highlights
 
 | Metric | Value |
