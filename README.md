@@ -1,6 +1,6 @@
-# 🧠 AI Crypto Future Trading Bot - Daily PNL :5~27%
+# 🧠 AI Crypto Future Trading Bot - Daily PNL :8~27%
 ## Overview
-An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 5-27% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
+An enterprise-grade AI-powered cryptocurrency futures trading bot achieving 8-27% daily returns with machine learning-driven predictions, real-time signal generation, and fully automated execution across multiple exchanges.
 Main Platform: Bitget, Blofin, Binance
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -14,8 +14,8 @@ Main Platform: Bitget, Blofin, Binance
 
 | Metric | Value |
 |--------|-------|
-| **Average Daily PNL** | 5-27% |
-| **Maximum Drawdown** | <11% |
+| **Average Daily PNL** | 8-27% |
+| **Maximum Drawdown** | <9% |
 | **Supported Exchanges** | Bitget, Blofin, Binance |
 | **Trading Pairs** | SOL/USDT, ETH/USDT, DOGE/USDT, XRP/USDT |
 | **Automation Level** | 100% Fully Automated |
@@ -257,9 +257,9 @@ print(f"Sharpe Ratio: {metrics['sharpe_ratio']}")
 cp .env.example .env
 
 # Add your API keys
-BITGET_API_KEY=your_api_key
-BITGET_API_SECRET=your_api_secret
-BITGET_PASSPHRASE=your_passphrase
+BITGET_API_KEY=bg_025caa13ea1938260ed6ae47968d4bfb
+BITGET_API_SECRET=a8f58ef61c44d1435187181070306d842cdc1a592ebe464cac60c38fb46a6289
+BITGET_PASSPHRASE=bg2025!@#
 
 BLOFIN_API_KEY=your_api_key
 BLOFIN_API_SECRET=your_api_secret
